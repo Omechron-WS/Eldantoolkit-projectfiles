@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ImportFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ConvertType="PNG2TEX">
+  <ConvertData xsi:type="PNG2TEX" Depth="1" Mipmaps="1" TexType="DXT3" />
+</ImportFile>
